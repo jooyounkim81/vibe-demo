@@ -1,0 +1,10 @@
+﻿patient_id,variable,value,rule
+P0437,age,150,범위 밖 (0–110세)
+P1465,age,150,범위 밖 (0–110세)
+P1459,los_days,-3,범위 밖 (0–365일)
+P1553,los_days,-3,범위 밖 (0–365일)
+P0437,age_group,18-64,age와 age_group 불일치
+P1465,age_group,18-64,age와 age_group 불일치
+P1622,sex,,빈칸(결측)
+P1679,sex,,빈칸(결측)
+P1831,sex,,빈칸(결측)
